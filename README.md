@@ -1,6 +1,7 @@
 # Simpages
 
 一个简洁、美观、高度可配置的个人主页模板，纯前端实现，无需后端支持。
+[English Version](./README_en.md)
 
 ## ✨ 特性
 
@@ -235,4 +236,3 @@ MIT
 
 ---
 
-[English Version](./README_en.md)
