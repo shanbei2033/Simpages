@@ -229,9 +229,9 @@
 
 直接打开 `index.html` 即可预览（使用默认配置）。
 
-## 📄 许可证
+## 📄 License
 
-MIT License - 可自由使用和修改。
+MIT
 
 ---
 
